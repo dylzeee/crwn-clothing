@@ -1,0 +1,3 @@
+const UserReducer = () => {
+  return null;
+}
